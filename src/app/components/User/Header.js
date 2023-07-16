@@ -12,7 +12,7 @@ export default function UserHeader() {
         </Avatar>
       </Grid>
       <Grid item>
-        <h1>Ankur Vekariiya</h1>
+        <h1>Ankur Vekariya</h1>
         <p style={{ marginBottom: "12px" }}>ankurvekariya2001@gmail.com</p>
       </Grid>
     </Grid>
